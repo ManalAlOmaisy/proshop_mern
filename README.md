@@ -1,8 +1,11 @@
 # proshop_mern
+
 eCommerce platform built with the MERN stack & Redux.
+
 Demo => https://proshopapp-hyf.herokuapp.com/
 
 Features
+
 Full featured shopping cart
 Product reviews and ratings
 Top products carousel
