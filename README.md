@@ -1,10 +1,9 @@
 # proshop_mern
 
 eCommerce platform built with the MERN stack & Redux.
-
 Demo => https://proshopapp-hyf.herokuapp.com/
 
-Features
+#Features
 
 Full featured shopping cart
 Product reviews and ratings
